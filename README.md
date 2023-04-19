@@ -24,7 +24,7 @@ To open Jupyter Notebook:
 <pre><code>jupyter notebook
 </pre></code>
 ### Matplotlib
-<pre><code>python -m pip install jupyter
+<pre><code>python -m pip install matplotlib
 </pre></code>
 ### NumPy
 <pre><code>python -m pip install numpy
